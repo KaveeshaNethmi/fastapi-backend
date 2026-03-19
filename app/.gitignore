@@ -1,0 +1,15 @@
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# SSH keys
+id_ed25519_personal
+id_ed25519_personal.pub
+
+# VS Code settings
+.vscode/
